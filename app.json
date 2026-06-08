@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Abdalla Keynan",
+    "slug": "abdalla-keynan",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "abdallakeynan",
+    "userInterfaceStyle": "automatic",
+
+    "android": {
+      "package": "com.abdallakeynan.chat"
+    },
+
+    "ios": {
+      "bundleIdentifier": "com.abdallakeynan.chat"
+    },
+
+    "plugins": [
+      "expo-router"
+    ],
+
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
